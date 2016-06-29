@@ -6,7 +6,7 @@ body {
     margin-bottom: 10%;
     
 	font-family: 'Roboto', sans-serif;
-	background-color: #ED413E;
+	background-color: #EDECE4;
 	}
 h1,h2{
 	color: #FFFFFF;
@@ -15,6 +15,10 @@ h1,h2{
 
 h3{
 	font-weight: 500;
+}
+p{
+	font-weight: 300;
+	line-height:3.5ex;
 }
 
 .banner{
@@ -40,6 +44,7 @@ position:relative;
   margin-left: 30%;
   margin-top: 2%;
   position:relative;
+  color: #DFF2EA;
 
 }
 header {
@@ -49,7 +54,7 @@ header {
 	position:absolute;
 	width: 30%;
 	
-	 margin-left: 20%;
+	 margin-left: 2%;
 	 margin-top: 400px;
 	 margin-bottom: 10%;
 	 background-color: #E3A89A;
@@ -61,13 +66,13 @@ header {
 margin-top: 7%;
  position:relative;
  margin-right: 10%;
-  margin-left: 10%;
+  margin-left: 4%;
   margin-top: 7%;
   color: #000000;	
 }
 .parrafo1 p{
 font-size: 100%;
-line-height:3ex;	
+	
  margin-right: 10%;
   margin-left: 10%;
   margin-top: 1%;
@@ -78,8 +83,8 @@ line-height:3ex;
 .parrafo2{
 position:absolute;
 	 width: 30%;
-	margin-left: 52%;
-	 margin-top: 458px;
+	margin-left: 35%;
+	 margin-top: 400px;
 	 margin-bottom: 10%;
 	 background-color: #9AD5E3;
 	 display: block;
@@ -89,13 +94,13 @@ position:absolute;
 margin-top: 7%;
  position:relative;
  margin-right: 10%;
-  margin-left: 10%;
+  margin-left: 4%;
   margin-top: 7%;
   color: #000000;	
 }
 .parrafo2 p{
 font-size: 100%;
-line-height:3ex;	
+	
  margin-right: 10%;
   margin-left: 10%;
   margin-top: 1%;
@@ -106,8 +111,8 @@ line-height:3ex;
 	position:absolute;
 	width: 30%;
 	
-	 margin-left: 20%;
-	 margin-top: 915px;
+	 margin-left: 35%;
+	 margin-top: 1050px;
 	 margin-bottom: 10%;
 	 background-color: #B2D95F;
 	display: block;
@@ -122,7 +127,7 @@ margin-top: 7%;
 }
 .parrafo3 p{
 font-size: 100%;
-line-height:3ex;	
+	
  margin-right: 10%;
   margin-left: 10%;
   margin-top: 1%;
@@ -130,9 +135,85 @@ line-height:3ex;
   position:relative;
 
 }
+.parrafo4{
+position:absolute;
+	 width: 30%;
+	margin-left: 68%;
+	 margin-top: 1050px;
+	 margin-bottom: 10%;
+	 background-color: #F2E077;
+	 display: block;
+
+}
+.parrafo4 h3{
+margin-top: 7%;
+ position:relative;
+ margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 7%;
+  color: #000000;	
+}
+.parrafo4 p{
+font-size: 100%;
+	
+ margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 1%;
+  margin-bottom: 5%;
+  position:relative;
+}
+
+.parrafo5{
+position:absolute;
+	 width: 90%;
+	margin-left: 5%;
+	 margin-top: 1830px;
+	 margin-bottom: 10%;
+	 background-color: #8FF2CB;
+	 display: block;
+
+}
+.parrafo5 h3{
+margin-top: 7%;
+ position:relative;
+ margin-right: 4%;
+  margin-left: 4%;
+  margin-top: 7%;
+  color: #000000;
+
+}
+.parrafo5 p{
+margin-top: 2%;
+margin-right: 3em;
+
+text-align: justify;
+}
+
+
+.p1 p{
+	font-size: 100%;
+	
+ margin-right: 3em;
+  margin-left: 4em;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  position:relative;
+  width: 45%;
+  float: left;
+}
+
+
+
+
+
+
+
+
+
+
 
 a{
-	color: #CBD6F5;
+	color: #FFFFFF;
 	text-decoration: none;
 }
 
